@@ -2,6 +2,8 @@ Actividad
 
   Que significan y para que sirven las siguientes palabras clave...
 
+    remote
+      Muestra los repositorios (remotos) en los que se trabaja.
     init
       Inicia un repositorio en la directorio actual.
     clone
