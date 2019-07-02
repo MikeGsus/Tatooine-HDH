@@ -1,6 +1,7 @@
 Actividad
 
   Que significan y para que sirven las siguientes palabras clave...
+
     local
       Se usa cuando sólo una persona trabaja en el repositorio.
     remote
@@ -21,6 +22,7 @@ Actividad
       Mezcla los archivos entre versiones.
 
   Nombra las fases de GIT y que pasa en cada una de ellas...
+
     Untracked: Archivo sin registrar.
     Tracked: Archivo registrado al que se le da un seguimiento.
     Modified: Archivo modificado después de su registro.
@@ -28,7 +30,9 @@ Actividad
     Commited: Archivos preparados para enviar la servidor.
 
   ¿Que son las cosas que NO se deben hacer en un repositorio de GIT?
+
     -No trabajar directamente con la rama Master, para no estropear el trabajo del equipo.
 
   ¿A que año debía volver Marty McFly para reestablecer la linea de tiempo?
+
     -1965
