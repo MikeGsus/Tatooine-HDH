@@ -1,38 +1,34 @@
-# Tatooine-HDH
-Repositorio para el entrenamiento
-
-
 Actividad
 
-    Que significan y para que sirven las siguientes palabras clave...
-        local
+  Que significan y para que sirven las siguientes palabras clave...
+    local
+      Se usa cuando sólo una persona trabaja en el repositorio.
+    remote
+      Trae otras contribuciones al repositorio.
+    init
+      Inicia un repositorio en la directorio actual.
+    clone
+      Clona un repositorio desde el servidor y crea una carpeta local.
+    add
+      Agrega un archivo al área de staged
+    commit
+      Agrega los archivos y un mensaje al área de commited, preparándolos para enviar al servidor central.
+    push
+      Envía los archivos al servidor central.
+    pull
+      Trae los archivos desde el servidor central.
+    merge
+      Mezcla los archivos entre versiones.
 
-        remote
+  Nombra las fases de GIT y que pasa en cada una de ellas...
+    Untracked: Archivo sin registrar.
+    Tracked: Archivo registrado al que se le da un seguimiento.
+    Modified: Archivo modificado después de su registro.
+    Staged: Registro de los archivos creados o modificados.
+    Commited: Archivos preparados para enviar la servidor.
 
-        init
-          Inicia un repositorio en la directorio actual.
-        clone
-          Clona un repositorio desde el servidor y crea una carpeta local.
-        add
-          Agrega un archivo al área de staged
-        commit
-          Agrega los archivos y un mensaje al área de commited, preparándolos para enviar al servidor central.
-        push
-          Envía los archivos al servidor central.
-        pull
-          Trae los archivos desde el servidor central.
-        merge
-          Mezcla los archivos entre versiones.
+  ¿Que son las cosas que NO se deben hacer en un repositorio de GIT?
+    -No trabajar directamente con la rama Master, para no estropear el trabajo del equipo.
 
-    Nombra las fases de GIT y que pasa en cada una de ellas...
-      Untracked: Archivo sin registrar.
-      Tracked: Archivo registrado al que se le da un seguimiento.
-      Modified: Archivo modificado después de su registro.
-      Staged: Registro de los archivos creados o modificados.
-      Commited: Archivos preparados para enviar la servidor.
-
-    ¿Que son las cosas que NO se deben hacer en un repositorio de GIT?
-      -No trabajar directamente con la rama Master, para no estropear el trabajo del equipo.
-
-    ¿A que año debía volver Marty McFly para reestablecer la linea de tiempo?
-      -1965
+  ¿A que año debía volver Marty McFly para reestablecer la linea de tiempo?
+    -1965
