@@ -2,16 +2,12 @@ Actividad
 
   Que significan y para que sirven las siguientes palabras clave...
 
-    local
-      Se usa cuando sólo una persona trabaja en el repositorio.
-    remote
-      Trae otras contribuciones al repositorio.
     init
       Inicia un repositorio en la directorio actual.
     clone
       Clona un repositorio desde el servidor y crea una carpeta local.
     add
-      Agrega un archivo al área de staged
+      Inicia el seguimiento de un nuevo archivo, o continua el de uno modificado.
     commit
       Agrega los archivos y un mensaje al área de commited, preparándolos para enviar al servidor central.
     push
